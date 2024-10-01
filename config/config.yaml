@@ -1,0 +1,5 @@
+input_file_path: "/home/pravin/Documents/SparkProjects/data/orders.csv"
+output_file_path: "/home/pravin/Documents/SparkProjects/data/output/result.csv"
+file_format: "csv"
+delimiter: ","
+header: true
